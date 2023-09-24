@@ -1,0 +1,8 @@
+escreva = input('Digite qualquer coisa: ')
+print(type(escreva))
+print(escreva.isalnum())
+print(escreva.isnumeric())
+print(escreva.isalpha())
+print(escreva.isupper())
+print(escreva.islower())
+print(escreva.isspace())
